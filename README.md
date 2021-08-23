@@ -27,7 +27,7 @@ In analyzing the customer sentiments, sentiwordNet in Rapidminer was used.
 
 Sentiment Visualization
 -----------------------
-The results gotten was visualized in python (link the file)
+The results gotten was visualized in python (https://github.com/ibkAfolabi/Competitive-Intelligence-1/blob/main/sentiment_visualizations.ipynb)
 
 Topic Modeling
 --------------
