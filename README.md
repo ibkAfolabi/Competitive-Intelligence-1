@@ -4,6 +4,7 @@ This project uses Sentiment Analysis and Topic Modelling for Competitive intelli
 Author and Contributor List
 ---------------------------
 Afolabi Ibukun
+
 Eniola Enilolobo
 
 Project Description
@@ -18,7 +19,7 @@ The first step in analyzing the sentiments of customers of both Afrimash and the
 
 Data Preprocessing
 ------------------
-The extracted data was preprocessing in python (link the file)
+The extracted data was preprocessed in python (link the file)
 
 Sentiment Analysis
 ------------------
