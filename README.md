@@ -31,6 +31,6 @@ The results gotten was visualized in python (link the file)
 
 Topic Modeling
 --------------
-LDA ALgorithm was then applied and visualized (link the file)
+LDA ALgorithm was then applied and visualized (https://github.com/ibkAfolabi/Competitive-Intelligence-1/blob/main/LDA_analysis_on_facebook_posts.ipynb)
 
 
