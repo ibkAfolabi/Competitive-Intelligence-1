@@ -19,7 +19,7 @@ The first step in analyzing the sentiments of customers of both Afrimash and the
 
 Data Preprocessing
 ------------------
-The extracted data was preprocessed in python (link the file)
+The extracted data was preprocessed in python (https://github.com/ibkAfolabi/Competitive-Intelligence-1/blob/main/facebook_data_processing.ipynb)
 
 Sentiment Analysis
 ------------------
